@@ -244,7 +244,7 @@ fetch('flowers.jpg',myInit)
 4) [How to put datas in a chart / JSON convertion / Ajax](https://css-tricks.com/the-many-ways-of-getting-data-into-charts/)
 5) [How to put datas in a chart / JSON convertion / Ajax](https://www.chartjs.org/docs/latest/getting-started/)
 6)  [How to put datas in a chart / JSON convertion / Ajax](https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/#2-line-chart)
-
+7) [Link towards the guy who helped me the most on this project](https://github.com/Thdepas)
 
 
 
