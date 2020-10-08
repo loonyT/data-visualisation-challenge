@@ -5,6 +5,7 @@
 - type: `consolidation challenge`
 - duration: `5 days`
 - author: `Alexandre Plennevaux`
+-live preciew : https://loonyt.github.io/data-visualisation-challenge/
 
 ## Objectives
 
